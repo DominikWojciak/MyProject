@@ -1,0 +1,30 @@
+body {
+    background-color: #c5ff5b;
+    background: url("/resources/css/background.jpg") no-repeat 0 0;
+    background-size: 100% 100%;
+}
+
+.error {
+    color: red;
+}
+
+header {
+    padding: 80px 0 5px;
+    border-bottom: 1px solid #001383;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.navbar-red {
+    background-color: #981f24;
+    background-image: linear-gradient(#a2441f, #983334 50%);
+    border-bottom: 1px solid #832322;
+}
+
+.navbar-black a {
+    color: #000000 !important;
+}
+
+.navbar-blue a:hover {
+    background: rgba(0, 0, 0, .1);
+}
